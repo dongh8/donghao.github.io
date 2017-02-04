@@ -1,5 +1,7 @@
 # Hao Dong
 
+<img align="right" src="https://octodex.github.com/images/yaktocat.png">
+
 I am a PhD student in Economics at the LSE. My research focuses on Nonparametric and semiparametric methods, Measurement error models, and High-dimensional models.
 
 I am on the job market and available for interviews at the AEA/ASSA in Philadelphia. 
