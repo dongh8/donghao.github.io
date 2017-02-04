@@ -1,6 +1,6 @@
 # Hao Dong
 
-<img align="right" src="https://octodex.github.com/images/yaktocat.png" width="25" height="25">
+<img align="left" src="https://octodex.github.com/images/yaktocat.png" width="280" height="290">
 
 I am a PhD student in Economics at the LSE. My research focuses on Nonparametric and semiparametric methods, Measurement error models, and High-dimensional models.
 
@@ -9,7 +9,7 @@ I am on the job market and available for interviews at the AEA/ASSA in Philadelp
 **Fields**: Econometrics
 
 **Contact information**:  
-Email: h.dong4@lse.ac.uk 
-Phone: +44 7923568643 
-Mailing: Department of Economics, LSE
-WC2A 2AE, London, UK
+Email: h.dong4@lse.ac.uk <br />
+Phone: +44 7923568643 <br />
+Mailing: Department of Economics, LSE <br />
+WC2A 2AE, London, UK <br />
