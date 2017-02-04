@@ -1,6 +1,6 @@
 # Hao Dong
 
-<img align="right" src="https://octodex.github.com/images/yaktocat.png">
+<img align="right" src="https://octodex.github.com/images/yaktocat.png" width="25" height="25">
 
 I am a PhD student in Economics at the LSE. My research focuses on Nonparametric and semiparametric methods, Measurement error models, and High-dimensional models.
 
