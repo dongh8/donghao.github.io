@@ -1,8 +1,6 @@
 ## Home
-## CV
-## Research
 
-You can use the [editor on GitHub](https://github.com/dongh8/donghao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[image](C:\Users\49113\Dropbox\JM2018\academia\website\photo.jpeg) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
